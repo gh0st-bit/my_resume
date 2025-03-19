@@ -15,7 +15,7 @@ It is a simple, responsive, and easy-to-edit resume that can be hosted on GitHub
 ---
 
 ### 🖥️ Live Preview    
-```sh
+
 `https://gh0st-bit.github.io/my_resume/`
 
 ---
