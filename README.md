@@ -22,4 +22,4 @@ It is a simple, responsive, and easy-to-edit resume that can be hosted on GitHub
 
 ### 1️⃣ Clone this repository  
 ```sh
-git clone https://github.com/your-github-username/my_resume.git
+git clone https://github.com/gh0st-bit/my_resume.git
