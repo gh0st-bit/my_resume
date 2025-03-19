@@ -19,9 +19,7 @@ You can host this resume on **GitHub Pages** after uploading it.
 To enable GitHub Pages, go to **Settings → Pages → Select Branch → Save**.  
 
 Once enabled, your resume will be live at:  
-`https://your-github-username.github.io/my_resume/`  
-
-*(Replace "your-github-username" with your actual GitHub username)*  
+`https://gh0st-bit.github.io/my_resume/`
 
 ---
 
