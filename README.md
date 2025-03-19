@@ -14,16 +14,11 @@ It is a simple, responsive, and easy-to-edit resume that can be hosted on GitHub
 
 ---
 
-## 🖥️ Live Preview  
-You can host this resume on **GitHub Pages** after uploading it.  
-To enable GitHub Pages, go to **Settings → Pages → Select Branch → Save**.  
-
-Once enabled, your resume will be live at:  
+### 🖥️ Live Preview    
+```sh
 `https://gh0st-bit.github.io/my_resume/`
 
 ---
-
-## 🚀 Installation & Usage
 
 ### 1️⃣ Clone this repository  
 ```sh
